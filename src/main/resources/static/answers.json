@@ -1,0 +1,45 @@
+{
+  "faq": [
+    {
+      "keywords": ["criação", "fundação", "inauguração", "criacao", "fundacao", "inauguracao", "criado"],
+      "answer": "O Museu de Florianópolis foi inaugurado em 2019, com o objetivo de preservar e divulgar a história da cidade."
+    },
+    {
+      "keywords": ["objetivo", "propósito", "proposito"],
+      "answer": "O objetivo do Museu é preservar a memória de Florianópolis e divulgar sua história para o público."
+    },
+    {
+      "keywords": ["prédio", "arquitetura", "predio"],
+      "answer": "O Museu está situado em um prédio histórico no centro de Florianópolis, que foi cuidadosamente restaurado para abrigar o museu. A arquitetura do prédio é um destaque, com detalhes que remetem à época da chegada dos primeiros habitantes da ilha."
+    },
+    {
+      "keywords": ["horário", "funcionamento", "aberto", "horario"],
+      "answer": "O Museu de Florianópolis funciona de segunda a sexta-feira, das 9h às 19h, e aos sábados, domingos e feriados, das 10h às 16h. ."
+    },
+    {
+      "keywords": ["ingresso", "entrada", "valor"],
+      "answer": "A entrada para o Museu custa R$10 a inteira e R$5 a meia entrada. No entanto, é recomendável verificar se há alguma alteração nos preços ou nas políticas de entrada antes de planejar sua visita."
+    },
+    {
+      "keywords": ["cômodos", "quantidade", "comodos"],
+      "answer": "O número exato de cômodos no Museu pode variar dependendo das exposições e da configuração atual. Recomenda-se entrar em contato com o museu para obter informações específicas."
+    },
+    {
+      "keywords": ["peças", "exibidas"],
+      "answer": "O número de peças exibidas no Museu do Doce pode variar dependendo das exposições temporárias e permanentes. Para informações atualizadas, é aconselhável visitar o site oficial do museu ou entrar em contato diretamente."
+    },
+    {
+      "keywords": ["estilo arquitetônico", "prédio", "arquitetura", "estilo arquitetonico"],
+      "answer": "O prédio do Museu é um exemplo da arquitetura neoclássica, característica de muitos edifícios históricos em Florianópolis."
+    },
+    {
+      "keywords": ["arquiteto", "prédio", "predio"],
+      "answer": "As informações específicas sobre o arquiteto responsável pelo prédio do Museu não estão prontamente disponíveis. É recomendável entrar em contato com o museu para obter detalhes sobre a história arquitetônica do edifício."
+    },
+    {
+      "keywords": ["endereço", "local", "chegar"],
+      "answer": "O Museu está localizado no centro de Florianópolis, no endereço Praça XV de Novembro, 214, Centro - Florianópolis/SC CEP 88010-400"
+    }
+  ],
+  "default": "Desculpe, mas no momento não consigo responder sua pergunta. Você pode entrar em contato com a secretaria do Museu através do número: (48) 3222-1333"
+}
